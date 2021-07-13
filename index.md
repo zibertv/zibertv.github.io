@@ -1,2 +1,2 @@
-## Work in Progress!
-## For now, check out [MoodyJay](https://moodyjay.netlify.app/)!
+# Work in Progress... For right now, check out [MoodyJay](https://moodyjay.netlify.app/)!
+## MoodyJay was developed by myself and two others as our capstone project for our third year in the Software Development and Network Engineering program at Sheridan College. It integrates with Spotify, and employs machine learning to generate a queue of songs based on your mood and unique listening preferences.
